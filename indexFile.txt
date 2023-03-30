@@ -1,0 +1,11 @@
+request ( )
+{
+str source = "JoseMonford";
+str beacon = "DeepakS";
+str position = "FullstackDeveloper";
+float duration = 6;
+str array skills = [Python, C, C++, C#, html. css, bootstrap, javaScriptFramework, androidStudio, Ruby, Flutter, API development, Django, MangoTB, SQLSuite, Git, CI/CD, Microservices, Embedded C, Bash_Kernel_Programming, Bash Scripting, Java Linux SaaS, Web Scraping, Docker, DockerCompose, Flask, Ethical Hacking]  
+str array competenceIndex = [ Noob, Novice, Beginner, Intermediate, Professional, Expert ]
+class C (competenceIndex(Noob), date(30-03-2023))
+class python (competenceIndex(Noob), date(30-03-2023))
+}
